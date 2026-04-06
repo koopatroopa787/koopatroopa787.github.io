@@ -66,5 +66,4 @@ MSc Artificial Intelligence candidate building production-grade AI systems, real
 ## 🌐 Connect
 
 - GitHub: [@koopatroopa787](https://github.com/koopatroopa787)
-- LinkedIn: (add your latest LinkedIn URL here)
 - Email: yashk242810@gmail.com
